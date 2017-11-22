@@ -44,3 +44,14 @@ def turn(board)
     turn(board)
   end
 end
+
+#   while valid_move(board,index) == true
+#     input = gets.strip
+#     input = input.to_i
+#     index = input - 1
+#     board[index] = value
+#     display_board(board)
+#   else
+#     turn(board)
+#   end#takes the index and puts X in the board and displays
+# end
